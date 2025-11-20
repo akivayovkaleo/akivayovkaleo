@@ -2,29 +2,6 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30&height=230&section=header&text=Kaleo%20Akivayov&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Full-Stack&descAlignY=55&descAlign=50" width="100%"/>
 
-  <br>
-
-  <h3>🚀 Desenvolvedor Full-Stack em Formação</h3>
-  <p>
-    Estudante de <b>Análise e Desenvolvimento de Sistemas</b> em Blumenau-SC. 
-    Atualmente, aprimoro meus conhecimentos em <b>Java, Spring Boot e React</b>.
-    <br>
-    Busco minha <b>primeira oportunidade</b> profissional para aplicar minhas habilidades na criação de soluções eficientes e contribuir com projetos inovadores.
-  </p>
-
-  <br>
-
-  <div align="center">
-    <a href="https://github.com/akivayovkaleo">
-      <img height="190em" src="https://github-readme-stats.vercel.app/api?username=akivayovkaleo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-      <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akivayovkaleo&layout=compact&theme=dracula"/>
-    </a>
-  </div>
-
-  <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=akivayovkaleo&theme=dracula" />
-  </div>
-
   <br><br>
 
   <h3>🛠️ Tech Stack</h3>
@@ -48,16 +25,38 @@
 
   <br><br>
 
-  <h3>📚 Educação</h3>
+  <h3>🚀 Desenvolvedor Full-Stack em Formação</h3>
+  <p>
+    Estudante de <b>Análise e Desenvolvimento de Sistemas</b> em Blumenau-SC[cite: 5, 9]. 
+    Atualmente, aprimoro meus conhecimentos em <b>Java, Spring Boot e React</b>[cite: 9].
+    <br>
+    Busco minha <b>primeira oportunidade</b> profissional para aplicar minhas habilidades na criação de soluções eficientes[cite: 10].
+  </p>
+
   <p align="left" style="width: 80%; margin: auto;">
-    🎓 <b>Graduação em Análise e Dev. de Sistemas</b> | UniSenai (Previsão: Jun 2026)<br>
-    💻 <b>Bootcamp T-academy</b> | ProWay (Previsão: Out 2025)<br>
-    📜 <b>Técnico em Análise e Dev. de Sistemas</b> | Senai (Concluído: Dez 2023)
+    🎓 <b>Graduação em Análise e Dev. de Sistemas</b> | UniSenai (Previsão: Jun 2026) [cite: 15, 16]<br>
+    💻 <b>Bootcamp T-academy</b> | ProWay (Previsão: Out 2025) [cite: 17, 18]<br>
+    📜 <b>Técnico em Análise e Dev. de Sistemas</b> | Senai (Concluído: Dez 2023) [cite: 19]
   </p>
 
   <br>
   <hr width="50%">
   <br>
+
+  <h3>📊 Minhas Estatísticas no GitHub</h3>
+
+  <div align="center">
+    <a href="https://github.com/akivayovkaleo">
+      <img height="190em" src="https://github-readme-stats.vercel.app/api?username=akivayovkaleo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+      <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akivayovkaleo&layout=compact&theme=dracula"/>
+    </a>
+  </div>
+
+  <div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=akivayovkaleo&theme=dracula" />
+  </div>
+
+  <br><br>
 
   <p>Estou aberto a propostas de estágio ou vagas júnior!</p>
   
