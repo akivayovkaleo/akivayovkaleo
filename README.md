@@ -1,79 +1,81 @@
-🌟 Olá! Eu sou o Kaleo Akivayov
+Olá, eu sou o Kaleo Akivayov!
+👨‍💻 Desenvolvedor Full Stack em formação | Apaixonado por tecnologia e inovação
+<div align="center">
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
-👨‍💻 Desenvolvedor Full Stack em formação
-📍 Blumenau - SC
-📧 Email: kaleo.akivayov@gmail.com
+📍 Blumenau – SC
+📧 kaleo.akivayov@gmail.com
 
-🔗 GitHub: https://github.com/akivayovkaleo
+🔗 Meu GitHub
 
-🚀 Sobre mim
+🚀 "Transformando ideias em código e desafios em soluções."
+</div>
+🌟 Sobre Mim
 
-Sou apaixonado por tecnologia e estou sempre em busca de novos desafios. Atualmente estudo Análise e Desenvolvimento de Sistemas, desenvolvendo projetos Full-Stack com Java + Spring Boot, Node.js, e React.
-Meu objetivo é conquistar minha primeira oportunidade na área, aplicar minhas habilidades e contribuir com soluções inovadoras e eficientes.
+Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento Full-Stack.
+Trabalho principalmente com Java + Spring Boot, Node.js e React, criando soluções eficientes, escaláveis e modernas.
 
-Além da parte técnica, tenho experiência com comunicação, resolução de problemas, organização e trabalho em equipe — habilidades que aprimoro continuamente.
+Busco minha primeira oportunidade profissional na área, para aplicar minhas habilidades e contribuir em projetos reais que façam a diferença.
+Tenho facilidade em aprender, boa comunicação e experiência organizando processos e resolvendo problemas no dia a dia.
 
-💼 Experiência
-
-✔️ Comunicação direta com clientes
-✔️ Resolução ágil de problemas
-✔️ Organização e melhoria de processos
-✔️ Trabalho colaborativo e foco em resultados
-
-🎓 Educação
+🎓 Formação
 
 🎓 Graduação – Análise e Desenvolvimento de Sistemas
-ProWay | Previsão de conclusão: Out 2025
+ProWay • Previsão: Out/2025
 
-🎓 Bootcamp T-Academy
-(Cursando)
+💻 BootCamp T-Academy
+Cursando
 
 🎓 Técnico – Análise e Desenvolvimento de Sistemas
-Senai | Concluído em Dez 2023
+Senai • Concluído: Dez/2023
 
-🛠️ Habilidades Técnicas
+💼 Experiência & Perfil Profissional
+
+✔ Comunicação clara e objetiva
+✔ Organização e foco
+✔ Resolução de problemas
+✔ Trabalho em equipe
+✔ Adaptabilidade
+✔ Aprendizado contínuo
+
+🛠️ Tecnologias e Ferramentas
+<div align="center">
 🔹 Back-End
 
-Java • Spring Boot
 
-Node.js
 
-Python
 
-MySQL • SQL
+
+
+
+
+
 
 🔹 Front-End
 
-React
 
-JavaScript
 
-HTML • CSS
+
+
+
+
 
 🔹 Ferramentas
 
-Git • GitHub
 
-🔹 Competências Comportamentais
 
-Comunicação
 
-Organização
+</div>
+📊 Estatísticas do GitHub
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akivayovkaleo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akivayovkaleo&layout=compact&theme=tokyonight&hide_border=true" /> </div>
+🧩 Sobre mim em uma frase
 
-Adaptabilidade
+"Curioso, dedicado e sempre em evolução." 🚀
 
-Aprendizado contínuo
+Aprender, construir e ajudar pessoas por meio da tecnologia é o que me move.
 
-📊 Github Stats
+🌐 Conecte-se comigo
+<div align="center"> <a href="mailto:kaleo.akivayov@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> </div>
+🎉 Obrigado por visitar meu perfil!
 
-(Coloque este bloco no seu README e vai gerar automaticamente)
-
-![Akivayov GitHub stats](https://github-readme-stats.vercel.app/api?username=akivayovkaleo&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akivayovkaleo&layout=compact&theme=tokyonight)
-
-✨ Obrigado pela visita!
-
-Se quiser ver meus projetos ou trocar uma ideia sobre tecnologia, fique à vontade para me chamar! 😄
-⭐ Se gostar de algo por aqui, não esquece de deixar uma estrela!
+⭐ Se gostar de algum projeto meu, considere deixar uma estrela!
+Sempre aberto para conversar, aprender e colaborar.
