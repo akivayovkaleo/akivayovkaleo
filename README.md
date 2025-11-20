@@ -1,81 +1,45 @@
-Olá, eu sou o Kaleo Akivayov!
-👨‍💻 Desenvolvedor Full Stack em formação | Apaixonado por tecnologia e inovação
-<div align="center">
+# Olá, eu sou o Kaleo Akivayov! 
 
-📍 Blumenau – SC
-📧 kaleo.akivayov@gmail.com
+### 💻 Desenvolvedor Full-Stack em Formação
 
-🔗 Meu GitHub
+Sou estudante de **Análise e Desenvolvimento de Sistemas** em Blumenau-SC. Atualmente, estou focado em aprimorar meus conhecimentos em desenvolvimento Full-Stack e busco minha **primeira oportunidade** profissional para aplicar minhas habilidades na criação de soluções eficientes.
 
-🚀 "Transformando ideias em código e desafios em soluções."
-</div>
-🌟 Sobre Mim
+---
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento Full-Stack.
-Trabalho principalmente com Java + Spring Boot, Node.js e React, criando soluções eficientes, escaláveis e modernas.
+### 🛠️ Tecnologias e Ferramentas
 
-Busco minha primeira oportunidade profissional na área, para aplicar minhas habilidades e contribuir em projetos reais que façam a diferença.
-Tenho facilidade em aprender, boa comunicação e experiência organizando processos e resolvendo problemas no dia a dia.
+Tenho trabalhado em projetos acadêmicos e pessoais utilizando as seguintes tecnologias:
 
-🎓 Formação
+**Back-End:**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-🎓 Graduação – Análise e Desenvolvimento de Sistemas
-ProWay • Previsão: Out/2025
+**Front-End:**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-💻 BootCamp T-Academy
-Cursando
+**Ferramentas:**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-🎓 Técnico – Análise e Desenvolvimento de Sistemas
-Senai • Concluído: Dez/2023
+---
 
-💼 Experiência & Perfil Profissional
+### 📚 Educação
 
-✔ Comunicação clara e objetiva
-✔ Organização e foco
-✔ Resolução de problemas
-✔ Trabalho em equipe
-✔ Adaptabilidade
-✔ Aprendizado contínuo
+* 🎓 **Graduação em Análise e Des. de Sistemas** | UniSenai (Previsão: Jun 2026)
+* 💻 **Bootcamp T-academy** | ProWay (Previsão: Out 2025)
+* 📜 **Técnico em Análise e Des. de Sistemas** | Senai (Concluído: Dez 2023)
 
-🛠️ Tecnologias e Ferramentas
-<div align="center">
-🔹 Back-End
+---
 
+### 📫 Contato
 
+Estou aberto a propostas de estágio ou vagas júnior!
 
-
-
-
-
-
-
-
-🔹 Front-End
-
-
-
-
-
-
-
-
-🔹 Ferramentas
-
-
-
-
-</div>
-📊 Estatísticas do GitHub
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akivayovkaleo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akivayovkaleo&layout=compact&theme=tokyonight&hide_border=true" /> </div>
-🧩 Sobre mim em uma frase
-
-"Curioso, dedicado e sempre em evolução." 🚀
-
-Aprender, construir e ajudar pessoas por meio da tecnologia é o que me move.
-
-🌐 Conecte-se comigo
-<div align="center"> <a href="mailto:kaleo.akivayov@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> </div>
-🎉 Obrigado por visitar meu perfil!
-
-⭐ Se gostar de algum projeto meu, considere deixar uma estrela!
-Sempre aberto para conversar, aprender e colaborar.
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaleo-akivayov)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaleo.akivayov@gmail.com)
