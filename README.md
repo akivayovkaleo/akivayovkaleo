@@ -45,7 +45,7 @@ Atualmente estudo **Java, Spring Boot, JavaScript e React**, buscando minha **pr
 📅 **Previsão:** Junho/2026  
 
 💻 **Bootcamp T-Academy — ProWay**  
-📅 **Previsão:** Outubro/2025  
+🎓 Concluído Outubro/2025  
 
 📜 **Técnico em Análise e Desenvolvimento de Sistemas — Senai**  
 🎓 Concluído em Dez/2023  
