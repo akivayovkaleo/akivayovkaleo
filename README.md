@@ -1,54 +1,88 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30&height=230&section=header&text=Kaleo%20Akivayov&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Full-Stack%20em%20Formação&descAlignY=55&descAlign=50" width="100%"/>
+<img src="./claude-pixel.gif" width="150" alt="mascote pixel"/>
 
-<br>
+# Kaleo Akivayov
+
+**Implantador de Sistemas · Front-End · IA**
+
+<sub>📍 Blumenau, SC · construindo produtos digitais escaláveis</sub>
+
+</div>
+
+---
+
+<div align="center">
 
 ### 👋 Olá, seja bem-vindo(a) ao meu perfil!
-Sou um desenvolvedor **Full-Stack em formação**, apaixonado por tecnologia e em constante evolução.  
-Atualmente estudo **Java, Spring Boot, JavaScript e React**, buscando minha **primeira oportunidade** como estagiário ou júnior.
+
+</div>
+
+Sou o **Kaleo**, 20 anos, **Implantador de Sistemas**.
+Atuo com **implantação de projetos e customização de layout / front-end** para lojas de e-commerce — e nas horas vagas construo meus próprios **produtos digitais**.
+Curto pegar uma ideia e levar até virar produto: do **layout** à **lógica**, com uma boa dose de **IA** no meio do caminho.
+
+---
+
+## 🚀 Sobre Mim
+
+🔹 **20 anos**, de **Blumenau, SC**
+🔹 **Implantador de Sistemas** — implantação de projetos + **layout e front-end** para e-commerce
+🔹 Construo **produtos digitais próprios** (fintech gamificada, plataforma de leitura, SaaS)
+🔹 Integro **IA / LLMs** em produtos reais e no meu fluxo de desenvolvimento
+🔹 **Formado** em Análise e Desenvolvimento de Sistemas
 
 ---
 
 ## 🛠️ Tech Stack
 
+### 🎨 Front-End & Layout
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Twig-2C3E50?style=for-the-badge&logo=twig&logoColor=white">
+
 ### 🔧 Back-End
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 
-### 🎨 Front-End
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+### 🗄️ Banco de Dados & Infra
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white">
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 
-### ⚙️ Ferramentas e Versionamento
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+### 🤖 IA & Automação
+<img src="https://img.shields.io/badge/Anthropic%20Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
+<img src="https://img.shields.io/badge/LLM%20APIs-8A63D2?style=for-the-badge&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/AI%20Workflows-11A37F?style=for-the-badge&logo=githubcopilot&logoColor=white">
+
+> Integro **modelos de linguagem (LLMs)** em produtos reais — features com a **API da Anthropic (Claude)**, fluxos de desenvolvimento assistidos por IA e automações que aceleram a entrega. Uso IA como **parte do processo de engenharia**, não como enfeite.
+
+### ⚙️ Ferramentas
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white">
 
 ---
 
-## 🚀 Sobre Mim
-🔹 Estudante de **Análise e Desenvolvimento de Sistemas** — Blumenau, SC  
-🔹 Foco atual: **Java + Spring Boot** e **React**  
-🔹 Apaixonado por criar soluções eficientes e aprender novas tecnologias  
-🔹 Em busca da **primeira oportunidade** profissional  
+## ⭐ Projeto em Destaque
 
----
+### 🏙️ Controle Financeiro — finanças pessoais gamificadas
 
-## 🎓 Formação
+Um app onde a **sua vida financeira vira uma cidade em pixel art isométrico** (na pegada *Clash of Clans*). Cada categoria de receita/gasto **constrói e evolui estruturas** no vilarejo, e o hub central mostra o seu patrimônio total. Dois modos selecionáveis no onboarding: **dashboard clássico** para quem quer os números, e **vila gamificada** para quem acha app de finança chato demais.
 
-📘 **Graduação:** Análise e Desenvolvimento de Sistemas — *UniSenai*  
-📅 **Previsão:** Junho/2026  
+**Stack:** `Next.js 15` · `TypeScript` · `TailwindCSS` · `PostgreSQL + Drizzle ORM` · `Auth.js`
+**Status:** 🔒 em desenvolvimento (repositório privado)
 
-💻 **Bootcamp T-Academy — ProWay**  
-🎓 Concluído Outubro/2025  
-
-📜 **Técnico em Análise e Desenvolvimento de Sistemas — Senai**  
-🎓 Concluído em Dez/2023  
+<sub>🧩 Também construindo: <b>VayoToons</b> (plataforma de leitura de manhwa/mangá em PT-BR) e um <b>SaaS de agendamento</b> para salões e barbearias.</sub>
 
 ---
 
@@ -56,16 +90,22 @@ Atualmente estudo **Java, Spring Boot, JavaScript e React**, buscando minha **pr
 
 <div align="center">
 
-<a href="https://github.com/akivayovkaleo">
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=akivayovkaleo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akivayovkaleo&layout=compact&theme=dracula"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akivayovkaleo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=C26A50&icon_color=D97757&text_color=5B4A38&bg_color=F7F1E7"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akivayovkaleo&layout=compact&hide_border=true&title_color=C26A50&text_color=5B4A38&bg_color=F7F1E7"/>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akivayovkaleo&theme=dracula"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akivayovkaleo&hide_border=true&background=F7F1E7&stroke=E4D2BE&ring=C26A50&fire=D97757&currStreakLabel=C26A50&sideLabels=5B4A38&dates=7A6A58&currStreakNum=2B2119&sideNums=2B2119&excludeDaysLabel=A79883&color=5B4A38"/>
 
 </div>
+
+---
+
+## 🎓 Formação
+
+🎓 **Graduação:** Análise e Desenvolvimento de Sistemas — *UniSenai* · ✅ Concluído em **Jun/2026**
+💻 **Bootcamp T-Academy — ProWay** · ✅ Concluído em **Out/2025**
+📜 **Técnico em Análise e Desenvolvimento de Sistemas — Senai** · ✅ Concluído em **Dez/2023**
 
 ---
 
@@ -73,9 +113,8 @@ Atualmente estudo **Java, Spring Boot, JavaScript e React**, buscando minha **pr
 
 <p>
 <a href="https://linkedin.com/in/kaleo-akivayov">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:kaleo.akivayov@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -83,7 +122,9 @@ Atualmente estudo **Java, Spring Boot, JavaScript e React**, buscando minha **pr
 
 ---
 
-💬 *Estou aberto a propostas de estágio ou vagas júnior!*  
-⭐ *Se gostou do meu perfil, fique à vontade para deixar uma estrela nos meus repositórios!*
+<div align="center">
+
+💬 *Aberto a trocar ideia sobre **produtos, front-end e IA** — chama!*
+⭐ *Se curtir algum projeto, deixa uma estrela nos repositórios!*
 
 </div>
