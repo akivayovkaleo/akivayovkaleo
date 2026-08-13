@@ -1,12 +1,6 @@
 <div align="center">
 
-<img src="./claude-pixel.gif" width="150" alt="mascote Claude Code"/>
-
-# Kaleo Akivayov
-
-**Implantador de Sistemas · Front-End · IA**
-
-<sub>📍 Blumenau, SC · construindo produtos digitais escaláveis</sub>
+<img src="./header.gif" width="100%" alt="Kaleo Akivayov — Implantador de Sistemas · Front-End · IA"/>
 
 </div>
 
@@ -38,35 +32,51 @@ Curto pegar uma ideia e levar até virar produto: do **layout** à **lógica**, 
 
 ### 🎨 Front-End & Layout
 <p>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </p>
 <p>
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/Twig-2C3E50?style=for-the-badge&logo=twig&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Twig-2C3E50?style=for-the-badge&logo=twig&logoColor=white">
 </p>
 
 ### 🔧 Back-End
 <p>
-<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"><img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </p>
 
 ### 🗄️ Banco de Dados & Infra
 <p>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"><img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white">
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
 </p>
 <p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 
 ### 🤖 IA & Automação
 <p>
-<img src="https://img.shields.io/badge/Anthropic%20Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"><img src="https://img.shields.io/badge/LLM%20APIs-8A63D2?style=for-the-badge&logo=openai&logoColor=white"><img src="https://img.shields.io/badge/AI%20Workflows-11A37F?style=for-the-badge&logo=githubcopilot&logoColor=white">
+<img src="https://img.shields.io/badge/Anthropic%20Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
+<img src="https://img.shields.io/badge/LLM%20APIs-8A63D2?style=for-the-badge&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/AI%20Workflows-11A37F?style=for-the-badge&logo=githubcopilot&logoColor=white">
 </p>
 
 > Integro **modelos de linguagem (LLMs)** em produtos reais — features com a **API da Anthropic (Claude)**, fluxos de desenvolvimento assistidos por IA e automações que aceleram a entrega. Uso IA como **parte do processo de engenharia**, não como enfeite.
 
 ### ⚙️ Ferramentas
 <p>
-<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
 ---
@@ -87,11 +97,6 @@ Um app onde a **sua vida financeira vira uma cidade em pixel art isométrico** (
 ## 📊 Minhas Estatísticas
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akivayovkaleo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=C26A50&icon_color=D97757&text_color=5B4A38&bg_color=F7F1E7"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akivayovkaleo&layout=compact&hide_border=true&title_color=C26A50&text_color=5B4A38&bg_color=F7F1E7"/>
-
-<br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=akivayovkaleo&hide_border=true&background=F7F1E7&stroke=E4D2BE&ring=C26A50&fire=D97757&currStreakLabel=C26A50&sideLabels=5B4A38&dates=7A6A58&currStreakNum=2B2119&sideNums=2B2119&excludeDaysLabel=A79883&color=5B4A38"/>
 
