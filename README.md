@@ -107,7 +107,11 @@ Um app onde a **sua vida financeira vira uma cidade em pixel art isométrico** (
 ## 🎓 Formação
 
 🎓 **Graduação:** Análise e Desenvolvimento de Sistemas — *UniSenai* · ✅ Concluído em **Jun/2026**
+
+
 💻 **Bootcamp T-Academy — ProWay** · ✅ Concluído em **Out/2025**
+
+
 📜 **Técnico em Análise e Desenvolvimento de Sistemas — Senai** · ✅ Concluído em **Dez/2023**
 
 ---
