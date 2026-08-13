@@ -1,12 +1,6 @@
 <div align="center">
 
-<img src="./claude-pixel.gif" width="150" alt="mascote pixel"/>
-
-# Kaleo Akivayov
-
-**Implantador de Sistemas · Front-End · IA**
-
-<sub>📍 Blumenau, SC · construindo produtos digitais escaláveis</sub>
+<img src="./header.gif" width="100%" alt="Kaleo Akivayov — Implantador de Sistemas · Front-End · IA"/>
 
 </div>
 
