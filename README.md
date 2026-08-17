@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./headerPreto.gif" width="100%" alt="Kaleo Akivayov — Implantador de Sistemas · Front-End · IA"/>
+<img src="headerPreto.gif" width="100%" alt="Kaleo Akivayov — Implantador de Sistemas · Front-End · IA"/>
 
 </div>
 
