@@ -20,10 +20,10 @@ Curto pegar uma ideia e levar até virar produto: do **layout** à **lógica**, 
 
 ## 🚀 Sobre Mim
 
-🔹 **20 anos**, de **Blumenau, SC**
-🔹 **Implantador de Sistemas** — implantação de projetos + **layout e front-end** para e-commerce
-🔹 Construo **produtos digitais próprios** (fintech gamificada, plataforma de leitura, SaaS)
-🔹 Integro **IA / LLMs** em produtos reais e no meu fluxo de desenvolvimento
+🔹 **20 anos**, de **Blumenau, SC**<br>
+🔹 **Implantador de Sistemas** — implantação de projetos + **layout e front-end** para e-commerce<br>
+🔹 Construo **produtos digitais próprios** (fintech gamificada, plataforma de leitura, SaaS)<br>
+🔹 Integro **IA / LLMs** em produtos reais e no meu fluxo de desenvolvimento<br>
 🔹 **Formado** em Análise e Desenvolvimento de Sistemas
 
 ---
@@ -87,7 +87,7 @@ Curto pegar uma ideia e levar até virar produto: do **layout** à **lógica**, 
 
 Um app onde a **sua vida financeira vira uma cidade em pixel art isométrico** (na pegada *Clash of Clans*). Cada categoria de receita/gasto **constrói e evolui estruturas** no vilarejo, e o hub central mostra o seu patrimônio total. Dois modos selecionáveis no onboarding: **dashboard clássico** para quem quer os números, e **vila gamificada** para quem acha app de finança chato demais.
 
-**Stack:** `Next.js 15` · `TypeScript` · `TailwindCSS` · `PostgreSQL + Drizzle ORM` · `Auth.js`
+**Stack:** `Next.js 15` · `TypeScript` · `TailwindCSS` · `PostgreSQL + Drizzle ORM` · `Auth.js`<br>
 **Status:** 🔒 em desenvolvimento (repositório privado)
 
 <sub>🧩 Também construindo: <b>VayoToons</b> (plataforma de leitura de manhwa/mangá em PT-BR) e um <b>SaaS de agendamento</b> para salões e barbearias.</sub>
@@ -98,7 +98,7 @@ Um app onde a **sua vida financeira vira uma cidade em pixel art isométrico** (
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akivayovkaleo&hide_border=true&background=F7F1E7&stroke=E4D2BE&ring=C26A50&fire=D97757&currStreakLabel=C26A50&sideLabels=5B4A38&dates=7A6A58&currStreakNum=2B2119&sideNums=2B2119&excludeDaysLabel=A79883&color=5B4A38"/>
+<img src="https://streak-stats.demolab.com/?user=akivayovkaleo&hide_border=true&background=0d1117&stroke=30363d&ring=D97757&fire=D97757&currStreakNum=F0F6FC&currStreakLabel=D97757&sideNums=F0F6FC&sideLabels=C9D1D9&dates=8B949E"/>
 
 </div>
 
@@ -106,12 +106,8 @@ Um app onde a **sua vida financeira vira uma cidade em pixel art isométrico** (
 
 ## 🎓 Formação
 
-🎓 **Graduação:** Análise e Desenvolvimento de Sistemas — *UniSenai* · ✅ Concluído em **Jun/2026**
-
-
-💻 **Bootcamp T-Academy — ProWay** · ✅ Concluído em **Out/2025**
-
-
+🎓 **Graduação:** Análise e Desenvolvimento de Sistemas — *UniSenai* · ✅ Concluído em **Jun/2026**<br>
+💻 **Bootcamp T-Academy — ProWay** · ✅ Concluído em **Out/2025**<br>
 📜 **Técnico em Análise e Desenvolvimento de Sistemas — Senai** · ✅ Concluído em **Dez/2023**
 
 ---
@@ -131,7 +127,7 @@ Um app onde a **sua vida financeira vira uma cidade em pixel art isométrico** (
 
 <div align="center">
 
-💬 *Aberto a trocar ideia sobre **produtos, front-end e IA** — chama!*
+💬 *Aberto a trocar ideia sobre **produtos, front-end e IA** — chama!*<br>
 ⭐ *Se curtir algum projeto, deixa uma estrela nos repositórios!*
 
 </div>
