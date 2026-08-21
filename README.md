@@ -98,7 +98,7 @@ Um app onde a **sua vida financeira vira uma cidade em pixel art isométrico** (
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=akivayovkaleo&hide_border=true&background=0d1117&stroke=30363d&ring=D97757&fire=D97757&currStreakNum=F0F6FC&currStreakLabel=D97757&sideNums=F0F6FC&sideLabels=C9D1D9&dates=8B949E"/>
+<img src="https://streak-stats.demolab.com/?user=akivayovkaleo&count_private=true&hide_border=true&background=0d1117&stroke=30363d&ring=D97757&fire=D97757&currStreakNum=F0F6FC&currStreakLabel=D97757&sideNums=F0F6FC&sideLabels=C9D1D9&dates=8B949E"/>
 
 </div>
 
